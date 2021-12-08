@@ -5,16 +5,27 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>AJAX ZADANIE</title>
+    <h1>GÓRY</h1>
     <style>
         body, html{
             padding: 0;
             margin: 0;
+            background-color: bisque;
+        }
+        button{
+            font-size: 40px;
+            text-align: left;
+            margin-top: 35px;
+            margin-left: 40px;
+        }
+        h1{
+            text-align: center;
+            font-family: Jazz LET, fantasy;
         }
     </style>
 </head>
-<body bgcolor="bisque">
+<body>
     <button id="przycisk">Ładuj Dane</button>
-    <h1>GÓRY</h1>
     <div id="users"></div>
     <script type="text/javascript">
         document.getElementById("przycisk").addEventListener("click",ladujuzytkownika)
