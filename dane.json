@@ -1,17 +1,39 @@
 [
+  
+
     {
         "id": 1,
         "title": "Piekny widok z tatr",
         "name": "Tatry",
-        "img": "<img src= zdj1.jpg>"
+        "img": "<img src= 'zdj1.jpg' height='400px' width='400px' >"
     },
-
 
     {
         "id": 2,
-        "title": "Pięekne góry",
+        "title": "Piekne góry",
         "name": "Bieszczady",
-        "img": "img src = zdj2.jpg">
+        "img": "<img src = 'zdj2.jpg' height='400px' width='400px'>"
+    },
+
+    {
+        "id": 3,
+        "title": "Góry",
+        "name": "Karpaty",
+        "img": "<img src = 'zdj3.jpg' height='400px' width='400px'>"
+    },
+
+    {
+        "id": 4,
+        "title": "Genialne góry",
+        "name": "Beskid - Wschodni",
+        "img": "<img src = 'zdj4.jpg' height='400px' width='400px'>"
+    },
+
+    {
+        "id": 5,
+        "title": "Piękny szczyt",
+        "name": "Rysy",
+        "img": "<img src = 'zdj5.jpg' height='400px' width='400p'>"
     }
 
 ]
