@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "title": "Piekny widok z tatr",
+        "name": "Tatry",
+        "img": "<img src= zdj1.jpg>"
+    },
+
+
+    {
+        "id": 2,
+        "title": "Pięekne góry",
+        "name": "Bieszczady",
+        "img": "img src = zdj2.jpg">
+    }
+
+]
